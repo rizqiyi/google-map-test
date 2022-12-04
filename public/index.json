@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "lat": 1.28692,
+      "long": 103.85457,
+      "title": "Merlion",
+      "description": "Merlion Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.287466,
+      "long": 103.851424,
+      "title": "Asian Civilisations Museum",
+      "description": "Asian Civilisations Museum Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.290555,
+      "long": 103.846188,
+      "title": "Clarke Quay",
+      "description": "Clarke Quay Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.295526,
+      "long": 103.845331,
+      "title": "Fort Canning Park",
+      "description": "Fort Canning Park Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.302279,
+      "long": 103.837399,
+      "title": "Orchard Road",
+      "description": "Orchard Road Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.289332,
+      "long": 103.863152,
+      "title": "Singapore Flyer",
+      "description": "Singapore Flyer Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.283099,
+      "long": 103.860295,
+      "title": "Marina Bay Sands",
+      "description": "Marina Bay Sands Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.28179,
+      "long": 103.863954,
+      "title": "Gardens By The Bay",
+      "description": "Gardens By The Bay Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    },
+    {
+      "lat": 1.284193,
+      "long": 103.843362,
+      "title": "Chinatown",
+      "description": "Chinatown Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ratione repellat eos saepe cupiditate, velit hic commodi veritatis incidunt, dignissimos sequi facere magni! Porro magni earum nisi debitis, provident a quidem est dolor corrupti dolore facere veniam ex ipsa minima, dicta unde sit ut. Eius ex veritatis magnam ea autem?"
+    }
+  ]
+}

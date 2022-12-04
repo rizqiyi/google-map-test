@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Wrapper } from "@googlemaps/react-wrapper";
+import { useMapData } from "./context";
+import Map from "./components/Map";
+import Layout from "./components/Layout";
+import "./App.css";
 
-function App() {
+const App = () => {
+  // retrieve the json marker data
+  useMapData();
+
+  const render = (status) => {
+    return <pre>{status}</pre>;
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // wrapped with appbar and sidebar.
+    <Layout>
+      {/* hit google maps api with the api key */}
+      <Wrapper render={render} apiKey="AIzaSyCLs8SVRLo8xe9Ov6RkU-UPYSZuCCBohcA">
+        <Map />
+      </Wrapper>
+    </Layout>
   );
-}
+};
 
 export default App;
